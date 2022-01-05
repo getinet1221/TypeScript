@@ -15,5 +15,3 @@ console.log("Get tota With two argument : "+IndefiniteDemo(10,20));
 console.log("Get tota With three argument : "+IndefiniteDemo(30,40,50));
 console.log("Get tota With four argument : "+IndefiniteDemo(100,200,300,400));
 console.log("Get tota With five argument : "+IndefiniteDemo(500,600,700,800,900));
-
-
