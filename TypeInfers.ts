@@ -1,0 +1,1 @@
+// type infers int typescript
