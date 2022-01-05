@@ -7,7 +7,7 @@ function testAny(name:any){
 function testVoid(name : void):void{
     return name;
 }
-console.log("Test any type : "+testAny("bosena fenthuan"));
+console.log("Test any type : "+testAny("Ephrem Amare"));
 console.log("Test it with number : "+testAny(1));
 console.log("Void : "+testVoid(123));// an error because of void return type 
 let nameandage = testVoid(1234); // an error because of void return type 

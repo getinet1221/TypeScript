@@ -12,4 +12,4 @@ var val = function GetOdd(value : number): string{
 function getLength(name:string):number{
     return name.length;
 }
-console.log(getLength("bosena"));
+console.log(getLength("Getinet"));

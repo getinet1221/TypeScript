@@ -7,5 +7,5 @@ naturalNumbers.forEach(value =>{
     }   
 });
 // we can add diffrent types to arrays like below
-let nameAndAge : (string | number)[] = [28,"Getinet",45,"Bosena"];
+let nameAndAge : (string | number)[] = [28,"Getinet",45,"Amare"];
 console.log("Name and Age = "+nameAndAge);
