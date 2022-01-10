@@ -11,7 +11,7 @@ console.log("String concatination : "+ConcatinateStrings("Getinet","Amare"));
 function AddingNumbers(a : number | string, b: number | string):string | number{
     if(typeof a === "number" && typeof b == "number"){
         return a + b;
-    }
+    }   
     if(typeof a === "string" && typeof b === "string"){
         return a + b;
     }
