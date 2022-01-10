@@ -68,4 +68,3 @@ let employee = new Employee("Bosena" , "Fentahun", 12000);
 console.log("Employee Name : "+employee.fName);
 console.log(employee.getEmployeeDetails());
 console.log("Person Details : "+employee.getPersonDetails());
-
